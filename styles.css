@@ -245,7 +245,7 @@ span{
 }
 /* Join Section */
 .subscribe-section {
-    background: url('/assets/news-letter-bg.png') center/cover no-repeat;
+    background: url('./assets/news-letter-bg.png') center/cover no-repeat;
     padding: 100px 0;
     text-align: center;
     position: relative;
